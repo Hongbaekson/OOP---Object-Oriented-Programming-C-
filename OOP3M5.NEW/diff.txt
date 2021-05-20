@@ -1,0 +1,10 @@
+
+In line number 172 of your output:
+The output should be:
+ Name (no spaces): water
+But your output is: 
+w Name (no spaces): water
+^
+|
+Professor's character ASCII code: hex(20), dec(32)
+un-matched character ASCII code: hex(77), dec(119)

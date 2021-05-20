@@ -1,0 +1,5 @@
+Script started on Sat 04 Aug 2018 01:08:13 PM EDT
+]0;hbson1@mtrx-node01pd:~/OOPS3M3.NEW[?1034h[hbson1@mtrx-node01pd OOPS3M3.NEW]$ exi[[[[Kexit
+exit
+
+Script done on Sat 04 Aug 2018 01:08:26 PM EDT

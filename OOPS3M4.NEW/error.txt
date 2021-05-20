@@ -1,0 +1,7 @@
+244_ms4_tester_prof.cpp: In function ‘int main()’:
+244_ms4_tester_prof.cpp:92:10: warning: deleting object of abstract class type ‘AMA::iProduct’ which has non-virtual destructor will cause undefined behaviour [-Wdelete-non-virtual-dtor]
+   delete product;
+          ^
+244_ms4_tester_prof.cpp:93:10: warning: deleting object of abstract class type ‘AMA::iProduct’ which has non-virtual destructor will cause undefined behaviour [-Wdelete-non-virtual-dtor]
+   delete perishable;
+          ^

@@ -1,0 +1,7 @@
+244_w3_prof_home.cpp: In function ‘int main()’:
+244_w3_prof_home.cpp:28:18: error: ‘max_name_length’ is not a member of ‘sict’
+244_w3_prof_home.cpp:29:17: error: ‘max_name_length’ is not a member of ‘sict’
+244_w3_prof_home.cpp:36:15: error: ‘familyName’ was not declared in this scope
+244_w3_prof_home.cpp:36:27: error: ‘max_name_length’ was not declared in this scope
+244_w3_prof_home.cpp:38:15: error: ‘givenName’ was not declared in this scope
+244_w3_prof_home.cpp:44:14: error: ‘class sict::CRA_Account’ has no member named ‘isEmpty’

@@ -1,0 +1,46 @@
+In file included from Account.cpp:10:0:
+Account.h:20:2: error: expected unqualified-id before ‘protected’
+  protected:
+  ^
+Account.h:35:1: error: expected declaration before ‘}’ token
+ }
+ ^
+In file included from SavingsAccount.h:13:0,
+                 from Allocator.cpp:9:
+Account.h:20:2: error: expected unqualified-id before ‘protected’
+  protected:
+  ^
+Account.h:35:1: error: expected declaration before ‘}’ token
+ }
+ ^
+In file included from SavingsAccount.h:13:0,
+                 from SavingsAccount.cpp:10:
+Account.h:20:2: error: expected unqualified-id before ‘protected’
+  protected:
+  ^
+Account.h:35:1: error: expected declaration before ‘}’ token
+ }
+ ^
+244_w8_lab_prof.cpp: In function ‘void display(const char*, sict::iAccount* const*, int)’:
+244_w8_lab_prof.cpp:29:12: error: ‘class sict::iAccount’ has no member named ‘display’
+   acct[i]->display(cout);
+            ^
+244_w8_lab_prof.cpp: In function ‘int main()’:
+244_w8_lab_prof.cpp:52:46: error: ‘CreateAccount’ was not declared in this scope
+  Angelina[0] = CreateAccount("Savings", 400.0);
+                                              ^
+244_w8_lab_prof.cpp:58:16: error: ‘class sict::iAccount’ has no member named ‘credit’
+   Angelina[i]->credit(2000);
+                ^
+244_w8_lab_prof.cpp:61:15: error: ‘class sict::iAccount’ has no member named ‘debit’
+  Angelina[0]->debit(1000);
+               ^
+244_w8_lab_prof.cpp:62:15: error: ‘class sict::iAccount’ has no member named ‘debit’
+  Angelina[1]->debit(500);
+               ^
+244_w8_lab_prof.cpp:66:15: error: ‘class sict::iAccount’ has no member named ‘monthEnd’
+  Angelina[0]->monthEnd();
+               ^
+244_w8_lab_prof.cpp:67:15: error: ‘class sict::iAccount’ has no member named ‘monthEnd’
+  Angelina[1]->monthEnd();
+               ^

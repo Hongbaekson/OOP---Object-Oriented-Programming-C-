@@ -1,0 +1,21 @@
+133181164 HONGBACK SON
+
+
+1. Discuss why the operator+= should return a reference to Fraction.
+-The operator += would change the current fraction object to allow chaining my workshop beceause I added the right operand to the current fraction object.
+
+
+2. Identify the temporary objects in the tester module.
+- There are two temporary objects that are in *operator and +operator. Thus, the two temporary objects are used to store new values of fraction.In the + operator: Fraction lhs = *this; (tempFirstFraction: 1/3 and tempOtherFraction: 2/4 reduced to 1/2) (1/3 + 1/2) = 5/6 and, in the * operator: Fraction tempOtherFraction= *this; 
+
+3. Identify simplifications that you could make to your class without affecting the interface to the client code.
+- I tried to not to copy logic and just re-used the == opererator and +operator in my != operator and += operator. So, it looks simple and does not affect to the interface to the client code.
+
+4. Explain what you have learned in this workshop.
+- I still have a difficulty with using operator but it is slightly getting better what the operator is exactly. I think I need more time to use operator with many different type of operator.
+  I could simplify my code by removing either my == operator overload or my != because they both return bools, one of them if they are the same and the other if they are different. This means that if I simply use the == than it will tell me if the objects are different by returning a false making the != unnecessary.
+  In this workshop I finally understood the usage of temporary objects, I also cemented my knowledge of creating overloaded operators. 
+
+
+
+NO QUIZ FOR THIS WORKSHOP

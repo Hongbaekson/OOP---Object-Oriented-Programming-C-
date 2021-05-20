@@ -1,0 +1,10 @@
+
+In line number 36 of your output:
+The output should be:
+Please enter the following string "abcd": abcd
+But your output is: 
+Please enter the following string "abcd": "abcd"
+                                          ^
+------------------------------------------|
+Professor's character ASCII code: hex(61), dec(97)
+un-matched character ASCII code: hex(22), dec(34)

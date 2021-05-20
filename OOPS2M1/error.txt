@@ -1,0 +1,111 @@
+244_ms1_tester_prof.cpp:26:17: error: ‘AMA’ is not a namespace-name
+244_ms1_tester_prof.cpp:26:20: error: expected namespace-name before ‘;’ token
+244_ms1_tester_prof.cpp: In function ‘int main()’:
+244_ms1_tester_prof.cpp:38:13: error: ‘min_year’ was not declared in this scope
+244_ms1_tester_prof.cpp:38:13: note: suggested alternative:
+Date.h:22:11: note:   ‘sict::min_year’
+244_ms1_tester_prof.cpp:42:13: error: ‘max_year’ was not declared in this scope
+244_ms1_tester_prof.cpp:42:13: note: suggested alternative:
+Date.h:23:11: note:   ‘sict::max_year’
+244_ms1_tester_prof.cpp:76:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:76:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:76:10: error: expected ‘;’ before ‘Empty’
+244_ms1_tester_prof.cpp:78:19: error: ‘Empty’ was not declared in this scope
+244_ms1_tester_prof.cpp:79:19: error: ‘Temp’ was not declared in this scope
+244_ms1_tester_prof.cpp:91:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:91:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:91:10: error: expected ‘;’ before ‘A’
+244_ms1_tester_prof.cpp:92:10: error: expected ‘;’ before ‘B’
+244_ms1_tester_prof.cpp:95:12: error: ‘B’ was not declared in this scope
+244_ms1_tester_prof.cpp:97:35: error: ‘A’ was not declared in this scope
+244_ms1_tester_prof.cpp:109:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:109:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:109:10: error: expected ‘;’ before ‘A’
+244_ms1_tester_prof.cpp:110:10: error: expected ‘;’ before ‘B’
+244_ms1_tester_prof.cpp:112:9: error: ‘A’ was not declared in this scope
+244_ms1_tester_prof.cpp:112:14: error: ‘B’ was not declared in this scope
+244_ms1_tester_prof.cpp:122:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:122:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:122:10: error: expected ‘;’ before ‘A’
+244_ms1_tester_prof.cpp:123:10: error: expected ‘;’ before ‘B’
+244_ms1_tester_prof.cpp:125:9: error: ‘A’ was not declared in this scope
+244_ms1_tester_prof.cpp:125:14: error: ‘B’ was not declared in this scope
+244_ms1_tester_prof.cpp:135:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:135:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:135:10: error: expected ‘;’ before ‘A’
+244_ms1_tester_prof.cpp:136:10: error: expected ‘;’ before ‘B’
+244_ms1_tester_prof.cpp:138:9: error: ‘A’ was not declared in this scope
+244_ms1_tester_prof.cpp:138:14: error: ‘B’ was not declared in this scope
+244_ms1_tester_prof.cpp:148:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:148:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:148:10: error: expected ‘;’ before ‘A’
+244_ms1_tester_prof.cpp:149:10: error: expected ‘;’ before ‘B’
+244_ms1_tester_prof.cpp:151:9: error: ‘A’ was not declared in this scope
+244_ms1_tester_prof.cpp:151:14: error: ‘B’ was not declared in this scope
+244_ms1_tester_prof.cpp:161:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:161:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:161:10: error: expected ‘;’ before ‘A’
+244_ms1_tester_prof.cpp:162:10: error: expected ‘;’ before ‘B’
+244_ms1_tester_prof.cpp:164:9: error: ‘A’ was not declared in this scope
+244_ms1_tester_prof.cpp:164:13: error: ‘B’ was not declared in this scope
+244_ms1_tester_prof.cpp:174:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:174:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:174:10: error: expected ‘;’ before ‘A’
+244_ms1_tester_prof.cpp:175:10: error: expected ‘;’ before ‘B’
+244_ms1_tester_prof.cpp:177:9: error: ‘B’ was not declared in this scope
+244_ms1_tester_prof.cpp:177:13: error: ‘A’ was not declared in this scope
+244_ms1_tester_prof.cpp:187:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:187:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:187:10: error: expected ‘;’ before ‘A’
+244_ms1_tester_prof.cpp:188:10: error: expected ‘;’ before ‘B’
+244_ms1_tester_prof.cpp:190:9: error: ‘A’ was not declared in this scope
+244_ms1_tester_prof.cpp:190:13: error: ‘B’ was not declared in this scope
+244_ms1_tester_prof.cpp:200:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:200:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:200:10: error: expected ‘;’ before ‘A’
+244_ms1_tester_prof.cpp:201:10: error: expected ‘;’ before ‘B’
+244_ms1_tester_prof.cpp:203:9: error: ‘B’ was not declared in this scope
+244_ms1_tester_prof.cpp:203:14: error: ‘A’ was not declared in this scope
+244_ms1_tester_prof.cpp:213:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:213:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:213:10: error: expected ‘;’ before ‘A’
+244_ms1_tester_prof.cpp:217:12: error: ‘A’ was not declared in this scope
+244_ms1_tester_prof.cpp:231:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:231:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:231:10: error: expected ‘;’ before ‘A’
+244_ms1_tester_prof.cpp:234:12: error: ‘A’ was not declared in this scope
+244_ms1_tester_prof.cpp:248:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:248:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:248:10: error: expected ‘;’ before ‘A’
+244_ms1_tester_prof.cpp:251:12: error: ‘A’ was not declared in this scope
+244_ms1_tester_prof.cpp:265:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:265:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:265:10: error: expected ‘;’ before ‘A’
+244_ms1_tester_prof.cpp:268:12: error: ‘A’ was not declared in this scope
+244_ms1_tester_prof.cpp:282:5: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:282:5: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:282:10: error: expected ‘;’ before ‘A’
+244_ms1_tester_prof.cpp:285:12: error: ‘A’ was not declared in this scope
+244_ms1_tester_prof.cpp: In function ‘bool equalDates(const char*, const char*)’:
+244_ms1_tester_prof.cpp:312:26: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:312:26: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:315:17: error: ‘Date’ was not declared in this scope
+244_ms1_tester_prof.cpp:315:17: note: suggested alternative:
+Date.h:32:8: note:   ‘sict::Date’
+244_ms1_tester_prof.cpp:316:1: warning: control reaches end of non-void function [-Wreturn-type]

@@ -1,0 +1,28 @@
+Script started on Wed 11 Apr 2018 09:05:26 AM EDT
+hbson1@matrix:~/OOPS3M4.NEW> ms4
+Linear: one two 
+As is: 
+one
+two
+
+Enter the following: 
+three<ENTER>
+four<ENTER>
+Ctrl^D<ENTER>
+
+three
+four
+one two three four 
+one
+two
+three
+four
+
+sku match
+Product < Perishable
+45|32|131|32
+113.5
+hbson1@matrix:~/OOPS3M4.NEW> exit
+exit
+
+Script done on Wed 11 Apr 2018 09:05:40 AM EDT

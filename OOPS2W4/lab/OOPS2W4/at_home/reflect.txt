@@ -1,0 +1,89 @@
+
+Author: Hongback Son 133181164 hbson1@myseneca.ca 
+
+1) What is meant by a safe empty state? What other safe empty states could you choose for the Passenger type? Explain why.
+- Safe empty state is the concept of making sure a string is not interrupted by other strings so it is safe whenever we use. In my function,  I used strncpy function to make it clear in my constructor
+2) Describe how you would modify the code to minimize duplication using the syntax that you have covered in the course to date.
+- Rather than copying and pasting from the duplicated syntax, I used the needed function itself in the new function with assigning new value. In my function. This case is the isEmpty function during the workshop4 home part.
+
+3) Explain why the canTravelWith(...) member function can access the pri-vate data variables of the referenced object.
+- It is because I copied the private members from reference and use it. Thus, we are not able to change the initial variables but check the value and the copied members.
+
+ 4) What do you need to correct when you use the strncpy(...) function?
+-  We need to make sure to assign null value for the last index. By doing it, we confirm the last index is null.  For my workshop, I worked as below
+strncpy(passengerName, pName, LENGTH);
+strncpy(passengerDestination, destinationName, LENGTH);
+
+passengerName[LENGTH - 1] = '\0';
+passengerDestination[LENGTH - 1] = '\0';
+ 
+5)Explain what you have learned in this workshop.
+I understands  how to use construction and destruction in this workshop
+
+
+
+QUIZ REFLECTION:
+
+
+There is nothing wrong with the following code
+
+#include <iostream>
+
+using namespace std;
+
+ 
+
+class Distance
+
+{
+
+    private:
+
+        int meter;
+
+    public:
+
+        Distance(): meter(0) { }   // initializing meter = 0;
+
+};
+
+ 
+
+
+int addFive(Distance d)
+
+{
+
+    //accessing private data from non-member function
+
+    d.meter += 5;
+
+    return d.meter;
+
+}
+
+ 
+
+int main()
+
+{
+
+    Distance D;
+
+    cout<<"Distance: "<< addFive(D);
+
+    return 0;
+
+}
+
+ 
+
+Selected Answer:  
+Incorrect True 
+ 
+Answers:  
+ True 
+ 
+ 
+Correct False  
+ 
