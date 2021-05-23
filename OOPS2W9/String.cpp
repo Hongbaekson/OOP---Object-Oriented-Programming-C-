@@ -1,9 +1,9 @@
 // Workshop 9: Classes with Resources Review
 // File: String.cpp
 // Date: 2017/07/27
-// Name: Kyunghoon Kim
-// Student No: 056-845-100
-// Student Email: khkim12@myseneca.ca
+// Name: Hongback Son
+// Student No: 133-181-164
+// Student Email: hbson1@myseneca.ca
 
 #include <cstring>
 #include <iostream>
