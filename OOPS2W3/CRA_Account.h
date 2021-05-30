@@ -3,7 +3,7 @@
 // File CRA_Account.h
 // Version 2.0
 // Date : 27 - Sep - 2017
-// Author : Dayoung Lee (121693162/dlee133@myseneca.ca)
+// Author : Dayoung Lee (121693162/dlee133@myseneca.ca) , Hongback Son(133181164/hbson1@myseneca.ca)
 // Description
 // This file is a header file for w3_in_lab.cpp and CRA_Account.cpp
 //
